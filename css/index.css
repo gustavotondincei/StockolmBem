@@ -58,7 +58,6 @@ img {
 .gallery__grid {
   display: grid;
   grid-template-columns: repeat(6, 1fr);
-  grid-template-rows: repeat(5, 1fr);
   grid-auto-flow: dense;
   gap: 5px;
 }
